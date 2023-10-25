@@ -2,11 +2,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=amankumawat-567&label=Profile%20views&color=0e75b6&style=flat" alt="amankumawat-567" /> </p>
 
-- 🔭 I’m currently working on [Alvin](https://github.com/amankumawat-567/Alvin)
+- 🔭 I’m currently working on [ChatBOT](https://github.com/amankumawat-567/ChatBOT)
 
 - 🌱 I’m currently learning **Machine Learning**
 
-- 🤝 I’m looking for help with [Alvin](https://github.com/amankumawat-567/Alvin)
+- 🤝 I’m looking for help with [ChatBOT](https://github.com/amankumawat-567/ChatBOT)
 
 - 👨‍💻 All of my projects are available at [MyProjects](https://codelore.infinityfreeapp.com/projects/)
 
@@ -14,7 +14,7 @@
 
 - 📫 How to reach me **amankumawat567@gmail.com**
 
-- 📄 Know more [About My](https://codelore.infinityfreeapp.com/about-me/)
+- 📄 Know more [About Me](https://codelore.infinityfreeapp.com/about-me/)
 
 <h3 align="left"> Skills:</h3>
 
